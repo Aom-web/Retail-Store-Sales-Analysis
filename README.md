@@ -6,4 +6,4 @@ This data was gotten from Kaggle
 [Download here] (https://www.kaggle.com/datasets/hassanjameelahmed/store-sales)
 
 # DASHBOARD
-[STORE SALES DASHBOARD](![Dashboard](https://github.com/user-attachments/assets/b3bbd4ec-e117-4b31-b845-5d992a718e5a)
+![Dashboard](https://github.com/user-attachments/assets/b3bbd4ec-e117-4b31-b845-5d992a718e5a)
