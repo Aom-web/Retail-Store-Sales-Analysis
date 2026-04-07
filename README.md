@@ -5,5 +5,8 @@
 This data was gotten from Kaggle
 [Download here] (https://www.kaggle.com/datasets/hassanjameelahmed/store-sales)
 
+# PIVOT TABLE
+![PIVOT TABLE](https://github.com/user-attachments/assets/a21fb2c5-e358-40d4-a032-723872b7d451)
+
 # DASHBOARD
 ![Dashboard](https://github.com/user-attachments/assets/b3bbd4ec-e117-4b31-b845-5d992a718e5a)
