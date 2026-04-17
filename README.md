@@ -15,8 +15,10 @@ This data was gotten from Kaggle
 
 ## Dashboard
 
+
 ![Dashboard](https://github.com/user-attachments/assets/b3bbd4ec-e117-4b31-b845-5d992a718e5a)
 
 
 ## Interactive Dashboard Preview
+
 https://github.com/user-attachments/assets/3ea7bdad-cc67-425c-aa03-33fb44077afc
