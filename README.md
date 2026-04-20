@@ -1,4 +1,4 @@
-# Retail-Store-Sales-Analysis-EXCEL
+## Excel-Retail-Store-Sales-Analysis
 
 ## Overview
 
